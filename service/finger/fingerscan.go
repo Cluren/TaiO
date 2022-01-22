@@ -1,5 +1,5 @@
 package finger
-
+ 
 import (
 	"bytes"
 	"fmt"
